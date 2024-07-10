@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lfDXxhRfAXXvGRbwsQ01FFlp2SS4YDhunuWqeayRk1s=",
+  "Source": "dotnet-crud-api-00",
+  "BasePath": "_content/dotnet-crud-api-00",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
